@@ -44,15 +44,15 @@ The goals / steps of this project are the following:
 [transform_image6]: ./examples/transform_road6.png "Warp Example6"
 [transform_image7]: ./examples/transform_road7.png "Warp Example7"
 [transform_image8]: ./examples/transform_road8.png "Warp Example8"
-[fit_image1]: ./examples/fit_line1.jpg "Fit Visual1"
-[fit_image2]: ./examples/fit_line2.jpg "Fit Visual2"
-[fit_image3]: ./examples/fit_line3.jpg "Fit Visual3"
-[fit_image4]: ./examples/fit_line4.jpg "Fit Visual4"
-[fit_image5]: ./examples/fit_line5.jpg "Fit Visual5"
-[fit_image6]: ./examples/fit_line6.jpg "Fit Visual6"
-[fit_image7]: ./examples/fit_line7.jpg "Fit Visual7"
-[fit_image8]: ./examples/fit_line8.jpg "Fit Visual8"
-[image6]: ./examples/example_output.jpg "Output"
+[fit_image1]: ./examples/fit_line1.png "Fit Visual1"
+[fit_image2]: ./examples/fit_line2.png "Fit Visual2"
+[fit_image3]: ./examples/fit_line3.png "Fit Visual3"
+[fit_image4]: ./examples/fit_line4.png "Fit Visual4"
+[fit_image5]: ./examples/fit_line5.png "Fit Visual5"
+[fit_image6]: ./examples/fit_line6.png "Fit Visual6"
+[fit_image7]: ./examples/fit_line7.png "Fit Visual7"
+[fit_image8]: ./examples/fit_line8.png "Fit Visual8"
+[image6]: ./examples/example_output.png "Output"
 [video1]: ./project_out.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
@@ -172,4 +172,4 @@ Here is a image from plotted back down onto the road:
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_out.mp4)
+Here's a [link to my video result][video1]
